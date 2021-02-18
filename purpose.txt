@@ -1,0 +1,10 @@
+
+Dinner club
+
+It is a website with lots of meals and recipes to customers and 
+it also offers a lot of options to choose many different recipes to deny the meal in order to 
+choose his favorite meal without any loading on the page so that the customer does not feel bored while
+browsing the website
+
+projcet on github:
+https://github.com/k801/ITI-Project
